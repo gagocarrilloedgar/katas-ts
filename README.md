@@ -1,5 +1,9 @@
 # Typescript KATAS 
 
+![GitHub](https://img.shields.io/github/license/gagocarrilloedgar/katas-ts)
+![Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+![Coverage](coverage-badge.svg)
+
 Repository with typescript KATAS to practide testing using jest 
 
 ## Usage 
