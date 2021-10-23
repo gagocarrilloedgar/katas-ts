@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "jest -i --colors --verbose --detectOpenHandles",
     "test:watch": "jest --watchAll",
     "coverage": "jest --coverage && make-coverage-badge --output-path coverage-badge.svg"
   },
