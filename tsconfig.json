@@ -7,6 +7,8 @@
     "noFallthroughCasesInSwitch": true,
     "noUnusedParameters": true,
     "noUnusedLocals": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
     "forceConsistentCasingInFileNames": true
   }
 }
